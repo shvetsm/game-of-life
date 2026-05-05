@@ -1,0 +1,5 @@
+/.idea/
+*.iml
+/out
+*.venv
+/typescript/node_modules/

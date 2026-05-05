@@ -1,0 +1,6 @@
+   0.015633583s  INFO prepare_target{force=false package_id=rust v0.1.0 (/Users/mshvets/IdeaProjects/game-of-life/rust) target="rust"}: cargo::core::compiler::fingerprint: fingerprint dirty for rust v0.1.0 (/Users/mshvets/IdeaProjects/game-of-life/rust)/Check { test: false }/TargetInner { name: "rust", doc: true, ..: with_path("/Users/mshvets/IdeaProjects/game-of-life/rust/src/main.rs", Edition2024) }
+   0.015646625s  INFO prepare_target{force=false package_id=rust v0.1.0 (/Users/mshvets/IdeaProjects/game-of-life/rust) target="rust"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.017476000s  INFO prepare_target{force=false package_id=rust v0.1.0 (/Users/mshvets/IdeaProjects/game-of-life/rust) target="rust"}: cargo::core::compiler::fingerprint: fingerprint dirty for rust v0.1.0 (/Users/mshvets/IdeaProjects/game-of-life/rust)/Check { test: true }/TargetInner { name: "rust", doc: true, ..: with_path("/Users/mshvets/IdeaProjects/game-of-life/rust/src/main.rs", Edition2024) }
+   0.017482083s  INFO prepare_target{force=false package_id=rust v0.1.0 (/Users/mshvets/IdeaProjects/game-of-life/rust) target="rust"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking rust v0.1.0 (/Users/mshvets/IdeaProjects/game-of-life/rust)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.10s
